@@ -108,8 +108,8 @@ id: Bhutan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bhutan/
-markerFolder: ./Bhutan/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Bhutan] 
