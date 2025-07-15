@@ -40,11 +40,18 @@ markerFolder: ./Wangdi_Phodrang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang|Wangdi_Phodrang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.public|Wangdi_Phodrang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.internal|Wangdi_Phodrang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.protect|Wangdi_Phodrang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.private|Wangdi_Phodrang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.personal|Wangdi_Phodrang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Wangdi_Phodrang.secret|Wangdi_Phodrang.secret]] 
+
+### #is_/same_as :: [Wangdue_Phodrang](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.public.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.internal.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.protect.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.private.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.personal.md) 
+
+### #is_/same_as :: [Wangdue_Phodrang.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Wangdue_Phodrang.secret.md)
 

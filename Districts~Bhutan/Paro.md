@@ -40,11 +40,18 @@ markerFolder: ./Paro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro|Paro]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.public|Paro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.internal|Paro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.protect|Paro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.private|Paro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.personal|Paro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Paro.secret|Paro.secret]] 
+
+### #is_/same_as :: [Paro](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.md) 
+
+### #is_/same_as :: [Paro.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.public.md) 
+
+### #is_/same_as :: [Paro.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.internal.md) 
+
+### #is_/same_as :: [Paro.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.protect.md) 
+
+### #is_/same_as :: [Paro.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.private.md) 
+
+### #is_/same_as :: [Paro.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.personal.md) 
+
+### #is_/same_as :: [Paro.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Paro.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Gasa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa|Gasa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.public|Gasa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.internal|Gasa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.protect|Gasa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.private|Gasa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.personal|Gasa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Gasa.secret|Gasa.secret]] 
+
+### #is_/same_as :: [Gasa](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.md) 
+
+### #is_/same_as :: [Gasa.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.public.md) 
+
+### #is_/same_as :: [Gasa.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.internal.md) 
+
+### #is_/same_as :: [Gasa.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.protect.md) 
+
+### #is_/same_as :: [Gasa.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.private.md) 
+
+### #is_/same_as :: [Gasa.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.personal.md) 
+
+### #is_/same_as :: [Gasa.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.secret.md)
 

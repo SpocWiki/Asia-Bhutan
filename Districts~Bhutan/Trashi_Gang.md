@@ -40,11 +40,18 @@ markerFolder: ./Tashigang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang|Tashigang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.public|Tashigang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.internal|Tashigang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.protect|Tashigang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.private|Tashigang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.personal|Tashigang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashigang.secret|Tashigang.secret]] 
+
+### #is_/same_as :: [Trashi_Gang](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.md) 
+
+### #is_/same_as :: [Trashi_Gang.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.public.md) 
+
+### #is_/same_as :: [Trashi_Gang.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.internal.md) 
+
+### #is_/same_as :: [Trashi_Gang.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.protect.md) 
+
+### #is_/same_as :: [Trashi_Gang.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.private.md) 
+
+### #is_/same_as :: [Trashi_Gang.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.personal.md) 
+
+### #is_/same_as :: [Trashi_Gang.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Gang.secret.md)
 

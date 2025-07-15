@@ -128,10 +128,4 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Bhutan|Bhutan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan.internal|Bhutan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan.protect|Bhutan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan.private|Bhutan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan.personal|Bhutan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan.secret|Bhutan.secret]] 
+

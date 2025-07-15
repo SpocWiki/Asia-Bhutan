@@ -40,11 +40,18 @@ markerFolder: ./Bumthang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang|Bumthang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.public|Bumthang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.internal|Bumthang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.protect|Bumthang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.private|Bumthang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.personal|Bumthang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Bumthang.secret|Bumthang.secret]] 
+
+### #is_/same_as :: [Bumthang](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.md) 
+
+### #is_/same_as :: [Bumthang.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.public.md) 
+
+### #is_/same_as :: [Bumthang.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.internal.md) 
+
+### #is_/same_as :: [Bumthang.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.protect.md) 
+
+### #is_/same_as :: [Bumthang.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.private.md) 
+
+### #is_/same_as :: [Bumthang.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.personal.md) 
+
+### #is_/same_as :: [Bumthang.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Bumthang.secret.md)
 

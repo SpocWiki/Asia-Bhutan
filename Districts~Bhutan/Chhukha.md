@@ -40,11 +40,18 @@ markerFolder: ./Chhukha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha|Chhukha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.public|Chhukha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.internal|Chhukha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.protect|Chhukha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.private|Chhukha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.personal|Chhukha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Chhukha.secret|Chhukha.secret]] 
+
+### #is_/same_as :: [Chhukha](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.md) 
+
+### #is_/same_as :: [Chhukha.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.public.md) 
+
+### #is_/same_as :: [Chhukha.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.internal.md) 
+
+### #is_/same_as :: [Chhukha.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.protect.md) 
+
+### #is_/same_as :: [Chhukha.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.private.md) 
+
+### #is_/same_as :: [Chhukha.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.personal.md) 
+
+### #is_/same_as :: [Chhukha.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Chhukha.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Tashi_Yangtse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse|Tashi_Yangtse]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.public|Tashi_Yangtse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.internal|Tashi_Yangtse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.protect|Tashi_Yangtse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.private|Tashi_Yangtse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.personal|Tashi_Yangtse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tashi_Yangtse.secret|Tashi_Yangtse.secret]] 
+
+### #is_/same_as :: [Trashi_Yangtse](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.public.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.internal.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.protect.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.private.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.personal.md) 
+
+### #is_/same_as :: [Trashi_Yangtse.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trashi_Yangtse.secret.md)
 

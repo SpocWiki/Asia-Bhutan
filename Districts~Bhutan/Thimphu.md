@@ -40,11 +40,18 @@ markerFolder: ./Thimphu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu|Thimphu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.public|Thimphu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.internal|Thimphu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.protect|Thimphu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.private|Thimphu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.personal|Thimphu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Thimphu.secret|Thimphu.secret]] 
+
+### #is_/same_as :: [Thimphu](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.md) 
+
+### #is_/same_as :: [Thimphu.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.public.md) 
+
+### #is_/same_as :: [Thimphu.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.internal.md) 
+
+### #is_/same_as :: [Thimphu.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.protect.md) 
+
+### #is_/same_as :: [Thimphu.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.private.md) 
+
+### #is_/same_as :: [Thimphu.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.personal.md) 
+
+### #is_/same_as :: [Thimphu.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Thimphu.secret.md)
 

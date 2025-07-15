@@ -40,11 +40,18 @@ markerFolder: ./Lhuntshi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi|Lhuntshi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.public|Lhuntshi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.internal|Lhuntshi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.protect|Lhuntshi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.private|Lhuntshi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.personal|Lhuntshi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Lhuntshi.secret|Lhuntshi.secret]] 
+
+### #is_/same_as :: [Lhuentse](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.md) 
+
+### #is_/same_as :: [Lhuentse.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.public.md) 
+
+### #is_/same_as :: [Lhuentse.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.internal.md) 
+
+### #is_/same_as :: [Lhuentse.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.protect.md) 
+
+### #is_/same_as :: [Lhuentse.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.private.md) 
+
+### #is_/same_as :: [Lhuentse.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.personal.md) 
+
+### #is_/same_as :: [Lhuentse.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Lhuentse.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu|Thimphu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.public|Thimphu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.internal|Thimphu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.protect|Thimphu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.private|Thimphu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.personal|Thimphu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/City/Thimphu.secret|Thimphu.secret]] 
+
+### #is_/same_as :: [Thimphu](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.md) 
+
+### #is_/same_as :: [Thimphu.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.public.md) 
+
+### #is_/same_as :: [Thimphu.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.internal.md) 
+
+### #is_/same_as :: [Thimphu.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.protect.md) 
+
+### #is_/same_as :: [Thimphu.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.private.md) 
+
+### #is_/same_as :: [Thimphu.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.personal.md) 
+
+### #is_/same_as :: [Thimphu.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.secret.md)
+

@@ -40,11 +40,18 @@ markerFolder: ./Tongsa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa|Tongsa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.public|Tongsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.internal|Tongsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.protect|Tongsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.private|Tongsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.personal|Tongsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Tongsa.secret|Tongsa.secret]] 
+
+### #is_/same_as :: [Trongsa](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.md) 
+
+### #is_/same_as :: [Trongsa.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.public.md) 
+
+### #is_/same_as :: [Trongsa.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.internal.md) 
+
+### #is_/same_as :: [Trongsa.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.protect.md) 
+
+### #is_/same_as :: [Trongsa.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.private.md) 
+
+### #is_/same_as :: [Trongsa.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.personal.md) 
+
+### #is_/same_as :: [Trongsa.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Trongsa.secret.md)
 

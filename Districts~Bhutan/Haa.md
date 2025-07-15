@@ -39,11 +39,18 @@ markerFolder: ./Ha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha|Ha]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.public|Ha.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.internal|Ha.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.protect|Ha.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.private|Ha.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.personal|Ha.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Bhutan/Counties/Ha.secret|Ha.secret]] 
+
+### #is_/same_as :: [Haa](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.md) 
+
+### #is_/same_as :: [Haa.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.public.md) 
+
+### #is_/same_as :: [Haa.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.internal.md) 
+
+### #is_/same_as :: [Haa.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.protect.md) 
+
+### #is_/same_as :: [Haa.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.private.md) 
+
+### #is_/same_as :: [Haa.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.personal.md) 
+
+### #is_/same_as :: [Haa.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Haa.secret.md)
 
