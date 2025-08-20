@@ -1,36 +1,37 @@
 ---
 location:
-- 27.417
-- 90.435
+  - 27.417
+  - 90.435
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26855
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bhutan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bhutan
-- Bhután
-- Bhoutan
-- بوتان
-- 不丹
-- Бутан
-- the Kingdom of Bhutan
-- el Reino de Bhután
+  - Bhutan
+  - Bhután
+  - Bhoutan
+  - بوتان
+  - 不丹
+  - Бутан
+  - the Kingdom of Bhutan
+  - el Reino de Bhután
 Languages:
-- dz
+  - dz
 ---
 
 
