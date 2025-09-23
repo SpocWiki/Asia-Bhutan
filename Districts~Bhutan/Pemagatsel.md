@@ -40,17 +40,17 @@ markerFolder: ./Pemagatsel/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pemagatsel](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.md) 
+### #is_/same_as :: [Pemagatsel](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.md) 
 
-### #is_/same_as :: [Pemagatsel.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.public.md) 
+### #is_/same_as :: [Pemagatsel.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.public.md) 
 
-### #is_/same_as :: [Pemagatsel.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.internal.md) 
+### #is_/same_as :: [Pemagatsel.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.internal.md) 
 
-### #is_/same_as :: [Pemagatsel.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.protect.md) 
+### #is_/same_as :: [Pemagatsel.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.protect.md) 
 
-### #is_/same_as :: [Pemagatsel.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.private.md) 
+### #is_/same_as :: [Pemagatsel.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.private.md) 
 
-### #is_/same_as :: [Pemagatsel.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.personal.md) 
+### #is_/same_as :: [Pemagatsel.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.personal.md) 
 
-### #is_/same_as :: [Pemagatsel.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Pemagatsel.secret.md)
+### #is_/same_as :: [Pemagatsel.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Pemagatsel.secret.md)
 

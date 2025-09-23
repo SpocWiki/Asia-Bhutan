@@ -113,9 +113,9 @@ markerFolder: ./
 
 [name-en::Bhutan] 
 [name-de::Bhutan] 
-![[Bhutan/Emblem_of_Bhutan.svg|350]]  
+![[Emblem_of_Bhutan.svg|350]]  
 
-![[Bhutan/Flag_of_Bhutan.svg|350]]  
+![[Flag_of_Bhutan.svg|350]]  
 
 [Area-Total::46500] 
 [Area-Land::47000] 

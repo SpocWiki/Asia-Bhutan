@@ -40,17 +40,17 @@ markerFolder: ./Punakha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Punakha](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.md) 
+### #is_/same_as :: [Punakha](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.md) 
 
-### #is_/same_as :: [Punakha.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.public.md) 
+### #is_/same_as :: [Punakha.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.public.md) 
 
-### #is_/same_as :: [Punakha.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.internal.md) 
+### #is_/same_as :: [Punakha.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.internal.md) 
 
-### #is_/same_as :: [Punakha.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.protect.md) 
+### #is_/same_as :: [Punakha.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.protect.md) 
 
-### #is_/same_as :: [Punakha.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.private.md) 
+### #is_/same_as :: [Punakha.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.private.md) 
 
-### #is_/same_as :: [Punakha.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.personal.md) 
+### #is_/same_as :: [Punakha.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.personal.md) 
 
-### #is_/same_as :: [Punakha.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Punakha.secret.md)
+### #is_/same_as :: [Punakha.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Punakha.secret.md)
 

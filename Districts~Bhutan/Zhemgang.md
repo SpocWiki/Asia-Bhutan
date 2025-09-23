@@ -40,17 +40,17 @@ markerFolder: ./Shemgang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zhemgang](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.md) 
+### #is_/same_as :: [Zhemgang](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.md) 
 
-### #is_/same_as :: [Zhemgang.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.public.md) 
+### #is_/same_as :: [Zhemgang.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.public.md) 
 
-### #is_/same_as :: [Zhemgang.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.internal.md) 
+### #is_/same_as :: [Zhemgang.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.internal.md) 
 
-### #is_/same_as :: [Zhemgang.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.protect.md) 
+### #is_/same_as :: [Zhemgang.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.protect.md) 
 
-### #is_/same_as :: [Zhemgang.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.private.md) 
+### #is_/same_as :: [Zhemgang.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.private.md) 
 
-### #is_/same_as :: [Zhemgang.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.personal.md) 
+### #is_/same_as :: [Zhemgang.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.personal.md) 
 
-### #is_/same_as :: [Zhemgang.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Zhemgang.secret.md)
+### #is_/same_as :: [Zhemgang.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Zhemgang.secret.md)
 

@@ -40,17 +40,17 @@ markerFolder: ./Samdrup_Jongkhar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samdrup_Jongkhar](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.md) 
+### #is_/same_as :: [Samdrup_Jongkhar](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.public.md) 
+### #is_/same_as :: [Samdrup_Jongkhar.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.public.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.internal.md) 
+### #is_/same_as :: [Samdrup_Jongkhar.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.internal.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.protect.md) 
+### #is_/same_as :: [Samdrup_Jongkhar.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.protect.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.private.md) 
+### #is_/same_as :: [Samdrup_Jongkhar.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.private.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.personal.md) 
+### #is_/same_as :: [Samdrup_Jongkhar.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.personal.md) 
 
-### #is_/same_as :: [Samdrup_Jongkhar.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.secret.md)
+### #is_/same_as :: [Samdrup_Jongkhar.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samdrup_Jongkhar.secret.md)
 

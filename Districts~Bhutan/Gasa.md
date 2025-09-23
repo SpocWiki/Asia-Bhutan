@@ -40,17 +40,17 @@ markerFolder: ./Gasa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gasa](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.md) 
+### #is_/same_as :: [Gasa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.md) 
 
-### #is_/same_as :: [Gasa.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.public.md) 
+### #is_/same_as :: [Gasa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.public.md) 
 
-### #is_/same_as :: [Gasa.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.internal.md) 
+### #is_/same_as :: [Gasa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.internal.md) 
 
-### #is_/same_as :: [Gasa.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.protect.md) 
+### #is_/same_as :: [Gasa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.protect.md) 
 
-### #is_/same_as :: [Gasa.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.private.md) 
+### #is_/same_as :: [Gasa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.private.md) 
 
-### #is_/same_as :: [Gasa.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.personal.md) 
+### #is_/same_as :: [Gasa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.personal.md) 
 
-### #is_/same_as :: [Gasa.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Gasa.secret.md)
+### #is_/same_as :: [Gasa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Gasa.secret.md)
 

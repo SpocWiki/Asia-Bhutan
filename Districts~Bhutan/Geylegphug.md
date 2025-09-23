@@ -40,17 +40,17 @@ markerFolder: ./Geylegphug/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geylegphug](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.md) 
+### #is_/same_as :: [Geylegphug](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.md) 
 
-### #is_/same_as :: [Geylegphug.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.public.md) 
+### #is_/same_as :: [Geylegphug.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.public.md) 
 
-### #is_/same_as :: [Geylegphug.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.internal.md) 
+### #is_/same_as :: [Geylegphug.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.internal.md) 
 
-### #is_/same_as :: [Geylegphug.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.protect.md) 
+### #is_/same_as :: [Geylegphug.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.protect.md) 
 
-### #is_/same_as :: [Geylegphug.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.private.md) 
+### #is_/same_as :: [Geylegphug.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.private.md) 
 
-### #is_/same_as :: [Geylegphug.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.personal.md) 
+### #is_/same_as :: [Geylegphug.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.personal.md) 
 
-### #is_/same_as :: [Geylegphug.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan/Districts~Bhutan/Geylegphug.secret.md)
+### #is_/same_as :: [Geylegphug.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Geylegphug.secret.md)
 
