@@ -26,16 +26,23 @@ publishDate:
 expiryDate:
 ---
 
-# Tongsa
+# [[Trongsa]] 
+
+
+## #has_/map 
 
 ```leaflet
-id: Tongsa
-zoomFeatures: true 
-minZoom: 2 
+id: Trongsa
+geojsonFolder: ./Trongsa/
+markerFolder: ./Trongsa/
+coordinates: [[Trongsa]] 
+markerFile: [[Trongsa]] 
+zoomFeatures: true
+defaultZoom: 11 
 maxZoom: 18
-geojsonFolder: ./Tongsa/
-markerFolder: ./Tongsa/
+minZoom: 6
 ```
+
 
 
 ## Confidential Links & Embeds: 
