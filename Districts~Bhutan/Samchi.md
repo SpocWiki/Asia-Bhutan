@@ -40,17 +40,17 @@ markerFolder: ./Samchi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samchi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi|Samchi]] 
 
-### #is_/same_as :: [Samchi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.public|Samchi.public]] 
 
-### #is_/same_as :: [Samchi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.internal|Samchi.internal]] 
 
-### #is_/same_as :: [Samchi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.protect|Samchi.protect]] 
 
-### #is_/same_as :: [Samchi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.private|Samchi.private]] 
 
-### #is_/same_as :: [Samchi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.personal|Samchi.personal]] 
 
-### #is_/same_as :: [Samchi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Samchi.secret|Samchi.secret]] 
 

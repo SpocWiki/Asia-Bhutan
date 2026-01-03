@@ -32,3 +32,20 @@ Commons_category: History of Bhutan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Bhutan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan|History_of_Bhutan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.public|History_of_Bhutan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.internal|History_of_Bhutan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.protect|History_of_Bhutan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.private|History_of_Bhutan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.personal|History_of_Bhutan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/History_of_Bhutan.secret|History_of_Bhutan.secret]] 
+

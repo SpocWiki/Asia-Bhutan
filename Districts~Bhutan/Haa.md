@@ -39,17 +39,17 @@ markerFolder: ./Ha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa|Haa]] 
 
-### #is_/same_as :: [Haa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.public|Haa.public]] 
 
-### #is_/same_as :: [Haa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.internal|Haa.internal]] 
 
-### #is_/same_as :: [Haa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.protect|Haa.protect]] 
 
-### #is_/same_as :: [Haa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.private|Haa.private]] 
 
-### #is_/same_as :: [Haa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.personal|Haa.personal]] 
 
-### #is_/same_as :: [Haa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Haa.secret|Haa.secret]] 
 

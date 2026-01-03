@@ -40,17 +40,17 @@ markerFolder: ./Paro/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paro](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro|Paro]] 
 
-### #is_/same_as :: [Paro.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.public|Paro.public]] 
 
-### #is_/same_as :: [Paro.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.internal|Paro.internal]] 
 
-### #is_/same_as :: [Paro.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.protect|Paro.protect]] 
 
-### #is_/same_as :: [Paro.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.private|Paro.private]] 
 
-### #is_/same_as :: [Paro.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.personal|Paro.personal]] 
 
-### #is_/same_as :: [Paro.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Paro.secret|Paro.secret]] 
 

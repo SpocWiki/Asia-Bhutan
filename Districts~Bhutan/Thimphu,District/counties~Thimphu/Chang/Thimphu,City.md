@@ -119,17 +119,17 @@ minZoom: 6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thimphu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City|Thimphu,City]] 
 
-### #is_/same_as :: [Thimphu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.public|Thimphu,City.public]] 
 
-### #is_/same_as :: [Thimphu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.internal|Thimphu,City.internal]] 
 
-### #is_/same_as :: [Thimphu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.protect|Thimphu,City.protect]] 
 
-### #is_/same_as :: [Thimphu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.private|Thimphu,City.private]] 
 
-### #is_/same_as :: [Thimphu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.personal|Thimphu,City.personal]] 
 
-### #is_/same_as :: [Thimphu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Trongsa/City/Thimphu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District/counties~Thimphu/Chang/Thimphu,City.secret|Thimphu,City.secret]] 
 

@@ -46,19 +46,20 @@ maxZoom: 18
 minZoom: 6
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thimphu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District|Thimphu,District]] 
 
-### #is_/same_as :: [Thimphu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.public|Thimphu,District.public]] 
 
-### #is_/same_as :: [Thimphu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.internal|Thimphu,District.internal]] 
 
-### #is_/same_as :: [Thimphu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.protect|Thimphu,District.protect]] 
 
-### #is_/same_as :: [Thimphu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.private|Thimphu,District.private]] 
 
-### #is_/same_as :: [Thimphu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.personal|Thimphu,District.personal]] 
 
-### #is_/same_as :: [Thimphu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Thimphu,District.secret|Thimphu,District.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Wangdi_Phodrang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wangdue_Phodrang](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang|Wangdue_Phodrang]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.public|Wangdue_Phodrang.public]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.internal|Wangdue_Phodrang.internal]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.protect|Wangdue_Phodrang.protect]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.private|Wangdue_Phodrang.private]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.personal|Wangdue_Phodrang.personal]] 
 
-### #is_/same_as :: [Wangdue_Phodrang.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Wangdue_Phodrang.secret|Wangdue_Phodrang.secret]] 
 

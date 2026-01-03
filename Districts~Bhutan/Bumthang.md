@@ -40,17 +40,17 @@ markerFolder: ./Bumthang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bumthang](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang|Bumthang]] 
 
-### #is_/same_as :: [Bumthang.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.public|Bumthang.public]] 
 
-### #is_/same_as :: [Bumthang.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.internal|Bumthang.internal]] 
 
-### #is_/same_as :: [Bumthang.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.protect|Bumthang.protect]] 
 
-### #is_/same_as :: [Bumthang.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.private|Bumthang.private]] 
 
-### #is_/same_as :: [Bumthang.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.personal|Bumthang.personal]] 
 
-### #is_/same_as :: [Bumthang.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Bumthang.secret|Bumthang.secret]] 
 

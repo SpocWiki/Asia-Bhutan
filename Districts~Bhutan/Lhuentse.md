@@ -40,17 +40,17 @@ markerFolder: ./Lhuntshi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lhuentse](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse|Lhuentse]] 
 
-### #is_/same_as :: [Lhuentse.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.public|Lhuentse.public]] 
 
-### #is_/same_as :: [Lhuentse.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.internal|Lhuentse.internal]] 
 
-### #is_/same_as :: [Lhuentse.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.protect|Lhuentse.protect]] 
 
-### #is_/same_as :: [Lhuentse.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.private|Lhuentse.private]] 
 
-### #is_/same_as :: [Lhuentse.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.personal|Lhuentse.personal]] 
 
-### #is_/same_as :: [Lhuentse.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan/Districts~Bhutan/Lhuentse.secret|Lhuentse.secret]] 
 
