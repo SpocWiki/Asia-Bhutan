@@ -1,9 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q956615
-part_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-country: "[[_Standards/WikiData/WD~Bhutan,917]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
+country: "[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]"
 Commons_category: History of Bhutan
 ---
 

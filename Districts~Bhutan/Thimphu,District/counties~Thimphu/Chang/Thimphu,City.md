@@ -16,19 +16,19 @@ tags:
 SpocWebEntityId: 35913
 isDeleted: false
 confidential: public
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Thimphu_District,254889]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Thimphu_District,254889|WD~Thimphu_District,254889]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-different_from: "[[_Standards/WikiData/WD~Thimphu,2040956]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Raidāk_River,3647339]]"
-capital_of: "[[_Standards/WikiData/WD~Bhutan,917]]"
-country: "[[_Standards/WikiData/WD~Bhutan,917]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+06_00,6906]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]"
+different_from: "[[_Standards/WikiData/WD~Thimphu,2040956|WD~Thimphu,2040956]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Raidāk_River,3647339|WD~Raidāk_River,3647339]]"
+capital_of: "[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]"
+country: "[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+06_00,6906|WD~UTC+06_00,6906]]"
 area: 27
 elevation_above_sea_level: 2321
 local_dialing_code:
@@ -58,7 +58,7 @@ demonym:
 [geo-lat::27.417] 
 [name::Thimphu] 
 State ::  
-Country :: [[../../../../../Bhutan]]  
+Country :: [[../../../../../Bhutan|Bhutan]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
