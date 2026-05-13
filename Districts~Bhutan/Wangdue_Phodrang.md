@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Wangdi_Phodrang/
 markerFolder: ./Wangdi_Phodrang/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

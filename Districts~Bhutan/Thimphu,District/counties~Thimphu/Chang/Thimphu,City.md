@@ -114,7 +114,7 @@ minZoom: 6
 >
 > The culture of Bhutan is reflected fully in Thimphu, through literature, religion, customs, national dress code, monastic practices, music, dance, and media. The annual Tshechu festival, held in September or October according to the Bhutanese calendar, is a major event featuring mask dances known as Cham dances, performed in the courtyards of the Tashichho Dzong.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thimphu)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thimphu) 
 
 
 ## Confidential Links & Embeds: 

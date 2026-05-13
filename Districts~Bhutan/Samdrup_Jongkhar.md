@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Samdrup_Jongkhar/
 markerFolder: ./Samdrup_Jongkhar/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

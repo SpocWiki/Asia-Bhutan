@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Paro/
 markerFolder: ./Paro/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
