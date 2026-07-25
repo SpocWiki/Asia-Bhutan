@@ -326,7 +326,7 @@ dv_UNTERM_Chinese_Formal: 不丹王国
 dv_UNTERM_French_Formal: le Royaume du Bhoutan
 dv_UNTERM_Russian: Бутан
 dv_UNTERM_Russian_Formal: Королевство Бутан
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Bhutan]]"
 dv_Sub-region_Name: "[[Southern Asia]]"
 dv_Region: 142
@@ -353,11 +353,11 @@ dv_ISO3: BTN
 dv_has_name_de: Bhutan
 dv_Area-Total: 46500
 dv_Area-Land: 47000
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: BHT
-dv_Capital: "[[Bhutan/Counties/Tongsa/City/Thimphu|Thimphu]]"
+dv_Capital: "[[Counties/Tongsa/City/Thimphu|Thimphu]]"
 dv_Alcohol-l: 0.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 90.435
 dv_has_place_latitude: 27.417
 dv_is_:
@@ -530,7 +530,7 @@ coat_of_arms: "[[/_Standards/WikiData/WD~Emblem_of_Bhutan,207354|WD~Emblem_of_Bh
 highest_point: "[[/_Standards/WikiData/WD~Gangkhar_Puensum,219986|WD~Gangkhar_Puensum,219986]]"
 anthem: "[[/_Standards/WikiData/WD~Druk_Tsenden,235441|WD~Druk_Tsenden,235441]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
@@ -867,7 +867,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bhutan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -887,7 +887,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Bhutan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -908,9 +908,9 @@ darkMode: false
 
 [has_name_en::Bhutan] 
 has_name_de = `=this.dv_has_name_de` 
-![[Bhutan/Emblem_of_Bhutan.svg|350]]  
+![[Emblem_of_Bhutan.svg|350]]  
 
-![[Bhutan/Flag_of_Bhutan.svg|350]]  
+![[Flag_of_Bhutan.svg|350]]  
 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
